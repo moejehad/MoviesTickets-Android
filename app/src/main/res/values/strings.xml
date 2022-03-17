@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">BOOKIT</string>
+    <string name="logo">BOOKIT</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="forget">Forgot Password ?</string>
+    <string name="rest">Rest</string>
+    <string name="login">LOGIN</string>
+    <string name="dont">Dont have an account ?</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="have">Already have an account ?</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="Booking">Booking</string>
+    <string name="profile">Profile</string>
+    <string name="profileName">Mohammed Jehad</string>
+    <string name="profileEmail">moejehad@gmail.com</string>
+    <string name="logout">Logout</string>
+    <string name="latest">Latest Movies</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="chagePhoto">Change Photo</string>
+    <string name="save">Save</string>
+    <string name="hobs">Hobbs And Show</string>
+    <string name="reomended">Recommended for you</string>
+    <string name="Search">Search</string>
+    <string name="hintSearch">Movie Name</string>
+    <string name="testText">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eros diam, auctor ut dui a, ornare mattis sapien. Proin interdum. "</string>
+    <string name="booking">Book A Ticket</string>
+    <string name="numbers">Number of Tickets</string>
+    <string name="number">Number</string>
+    <string name="add">Add Movie</string>
+    <string name="addMovie">Add Movie</string>
+    <string name="MovieName">Movie Name</string>
+    <string name="MovieDesc">Movie Description</string>
+    <string name="MovieDate">Movie Date</string>
+    <string name="MovieTime">Movie Time</string>
+    <string name="MovieDur">Movie Duration</string>
+    <string name="thanks">Thanks!</string>
+    <string name="thanksDesc">Ticket has been booked successfully</string>
+    <string name="backHome">Back Home</string>
+    <string name="nodata">No Data</string>
+    <string name="deleteMovie">Delete Movie</string>
+
+    <string-array name="catArray">
+        <item>Action</item>
+        <item>Comedies</item>
+        <item>Family</item>
+        <item>Romance</item>
+        <item>Anime</item>
+    </string-array>
+
+</resources>

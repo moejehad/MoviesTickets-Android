@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/gray</item>
+    </style>
+
+    <style name="roundedImage">
+        <item name="cornerRadius">20dp</item>
+        <item name="cornerSize">20dp</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="color">@color/colorAccent</item>
+    </style>
+
+</resources>
